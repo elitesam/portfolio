@@ -1,0 +1,22 @@
+.tag{
+  position: absolute;
+  width: 80%;
+  right: -15%;
+  left: auto;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  z-index: 2;
+
+  .sphere {
+    position: absolute;
+    top: 10%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    width: auto;
+    height: 100%;
+  }
+}
